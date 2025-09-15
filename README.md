@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Jharkhand_Tourism
+=======
+# JHARKHAND_TOURISM
+SIH HACKTHON
+>>>>>>> e27f0894b191217279ebf19fd55800063787a748
